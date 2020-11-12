@@ -1,0 +1,15 @@
+{
+  "name": "scratchfolder",
+  "version": "1.0.0",
+  "description": "my first NPM projext Nov 11th 2020",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AH",
+  "license": "ISC"
+}
